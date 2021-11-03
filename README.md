@@ -1,6 +1,6 @@
 ## Olá, me chamo Rafael Medeiros, sou desenvolvedor web e entusiasta da tecnologia!
 <div align="center"><img height="250" width="500" alt="Rafael-Wallpaper" src="https://c.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif"></div>
-<div align="center">
+<div align="center" style="display: inline_block">
   <a href="https://github.com/r-fael">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=r-fael&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-fael&layout=compact&langs_count=7&theme=dark"/>
